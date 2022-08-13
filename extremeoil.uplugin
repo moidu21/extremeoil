@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
-	"SemVersion": "1.0.1",
-	"RemoteVersionRange" : "1.0.1",
+	"VersionName": "1.0.3",
+	"SemVersion": "1.0.3",
+	"RemoteVersionRange" : "1.0.3",
 	"FriendlyName": "Extreme Oil Pump",
 	"Description": "",
 	"Category": "Modding",
